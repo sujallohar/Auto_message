@@ -1,0 +1,9 @@
+flask
+python-dotenv
+firebase-admin
+twilio
+apscheduler
+pytz
+python-dateutil
+gspread
+oauth2client
